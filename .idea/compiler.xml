@@ -21,6 +21,8 @@
     <bytecodeTargetLevel>
       <module name="algs4_main" target="1.8" />
       <module name="algs4_test" target="1.8" />
+      <module name="jsort_main" target="1.8" />
+      <module name="jsort_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

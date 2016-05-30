@@ -13,6 +13,16 @@
           </set>
         </option>
       </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../jsort" />
+        <option name="gradleHome" value="$USER_HOME$/tools/gradle-2.13" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../jsort" />
+          </set>
+        </option>
+      </GradleProjectSettings>
     </option>
   </component>
 </project>

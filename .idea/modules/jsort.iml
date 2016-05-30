@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="jsort" external.linked.project.path="$MODULE_DIR$/../../../jsort" external.root.project.path="$MODULE_DIR$/../../../jsort" external.system.id="GRADLE" external.system.module.group="io.github.toandv" external.system.module.version="0.0.1" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../jsort">
+      <excludeFolder url="file://$MODULE_DIR$/../../../jsort/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../jsort/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

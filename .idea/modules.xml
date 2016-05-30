@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/algs4.iml" filepath="$PROJECT_DIR$/.idea/modules/algs4.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/algs4_main.iml" filepath="$PROJECT_DIR$/.idea/modules/algs4_main.iml" group="algs4" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/algs4_test.iml" filepath="$PROJECT_DIR$/.idea/modules/algs4_test.iml" group="algs4" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jsort.iml" filepath="$PROJECT_DIR$/.idea/modules/jsort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jsort_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jsort_main.iml" group="jsort" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jsort_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jsort_test.iml" group="jsort" />
     </modules>
   </component>
 </project>
