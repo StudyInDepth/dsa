@@ -15,6 +15,25 @@
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../fpscala" />
+        <option name="gradleHome" value="$USER_HOME$/tools/gradle-2.13" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../fpscala" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../java-mastery" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../java-mastery" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/../jsort" />
         <option name="gradleHome" value="$USER_HOME$/tools/gradle-2.13" />
         <option name="modules">

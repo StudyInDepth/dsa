@@ -21,6 +21,10 @@
     <bytecodeTargetLevel>
       <module name="algs4_main" target="1.8" />
       <module name="algs4_test" target="1.8" />
+      <module name="fpscala_main" target="1.8" />
+      <module name="fpscala_test" target="1.8" />
+      <module name="java-mastery_main" target="1.8" />
+      <module name="java-mastery_test" target="1.8" />
       <module name="jsort_main" target="1.8" />
       <module name="jsort_test" target="1.8" />
     </bytecodeTargetLevel>
