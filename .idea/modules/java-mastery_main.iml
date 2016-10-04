@@ -10,5 +10,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.21" level="project" />
+    <orderEntry type="library" name="Gradle: io.javaslang:javaslang:2.0.3" level="project" />
+    <orderEntry type="library" name="Gradle: io.javaslang:javaslang-match:2.0.3" level="project" />
   </component>
 </module>
